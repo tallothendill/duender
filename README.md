@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://www.printables.com/model/1300968-duender-mgn9h-2x-creality-ender-3-corexy-convertio">
-    <img src="images/dulogo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/dulogo.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Duender mods, triple Z and more...</h3>
@@ -43,12 +43,13 @@
     <br />
     <a href="https://github.com/tallothendill/duender/tree/71d104ec3dbbbacea63be96e859a8f34e3e835fc/Kinematic%203Z%20-%20in%20progress">Triple Z axis, with kinematic bed</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/tallothendill/duender/tree/c5b984b065c5a199969d3fe1e7d17b98502cc63b/mods">Mods & stl related to the duender manual</a>
+    <!--
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
+-->
 
 <!-- TABLE OF CONTENTS -->
 
