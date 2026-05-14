@@ -17,7 +17,7 @@ Item,Quantity,Description,Product line
 16,41,M5 T-slot nut,Fastener
 17,3,M5x16 BHCS,Fastener
 18,5,M5 Hex nut,Fastener
-19,4,M4x30 FHCS,Fastener
+19,4,M4x25 FHCS,Fastener
 20,94,M3x8 SHCS,Fastener
 21,9,M3x6 BHCS,Fastener
 22,54,M3 T-slot nut,Fastener
@@ -45,39 +45,40 @@ Item,Quantity,Description,Product line
 44,2,16T6W3B toothed idler,Kinematics
 45,3,Top Z spacer,Printed part
 46,2,Bottom Z spacer,Printed part
-47,1,PiTFT43 housing,Printed part
-48,1,Z motor holder back,Printed part
-49,6,Z Carriage stopper,Printed part
-50,1,Z joint back,Printed part
-51,2,Z motor holder front,Printed part
-52,1,Z Front Left Joint,Printed Part
-53,1,Z Front left Joint Cover,Printed Part
-54,1,Z joint right,Printed part
-55,1,Joint cover right,Printed part
-56,1,Bed support back,Printed part
-57,1,Bed support left,Printed part
-58,1,Z Right Bed Holder,Printed Part
-59,1,AB motor mount BottomLeft,Printed part
-60,1,AB motor mount TopLeft,Printed part
-61,2,Y Carriage stopper,Printed part
-62,1,Front Left Holder Medusa9H,Printed part
-63,1,Left Tensioner Bottom,Printed part
-64,1,Left Tensioner Top,Printed part
-65,1,AB motor mount BottomRight,Printed part
-66,1,AB motor mount TopRight,Printed part
-67,1,Front Right Holder Medusa9H,Printed part
-68,1,Right Tensioner Bottom,Printed part
-69,1,Right Tensioner Top,Printed part
-70,1,Y Carriage Bottom Left,Printed part
-71,1,Y Carriage Bottom Right,Printed part
-72,1,Y Carriage Top Left,Printed part
-73,1,Y Carriage Top Right,Printed part
-74,2,Base FL/BR Foot,Printed Part
-75,2,Base Side Skirt,Printed Part
-76,2,Base FR/BL Foot,Printed Part
-77,1,Base Back Skirt,Printed Part
-78,1,Base Back Plug Housing,Printed Part
-79,4,Base Fan Dummy,Printed Part
-80,1,Base Front Skirt,Printed Part
-81,2,Base Insert,Printed Part
-82,4,Base Fan Grill,Printed Part
+47,1,Z motor holder back,Printed part
+48,6,Z Carriage stopper,Printed part
+49,1,Z joint back,Printed part
+50,2,Z motor holder front,Printed part
+51,1,Z Front Left Joint,Printed Part
+52,1,Z Front left Joint Cover,Printed Part
+53,1,Z joint right,Printed part
+54,1,Joint cover right,Printed part
+55,1,Bed support back,Printed part
+56,1,Bed support left,Printed part
+57,1,Z Right Bed Holder,Printed Part
+58,1,AB motor mount BottomLeft,Printed part
+59,1,AB motor mount TopLeft,Printed part
+60,2,Y Carriage stopper,Printed part
+61,1,Front Left Holder Medusa9H,Printed part
+62,1,Left Tensioner Bottom,Printed part
+63,1,Left Tensioner Top,Printed part
+64,1,AB motor mount BottomRight,Printed part
+65,1,AB motor mount TopRight,Printed part
+66,1,Front Right Holder Medusa9H,Printed part
+67,1,Right Tensioner Bottom,Printed part
+68,1,Right Tensioner Top,Printed part
+69,1,Y Carriage Bottom Left,Printed part
+70,1,Y Carriage Bottom Right,Printed part
+71,1,Y Carriage Top Left,Printed part
+72,1,Y Carriage Top Right,Printed part
+73,2,Base FL/BR Foot,Printed Part
+74,2,Base Side Skirt,Printed Part
+75,2,Base FR/BL Foot,Printed Part
+76,1,Base Back Skirt,Printed Part
+77,1,Base Back Plug Housing,Printed Part
+78,4,Base Fan Dummy,Printed Part
+79,1,Base Front Skirt,Printed Part
+80,2,Base Insert,Printed Part
+81,4,Base Fan Grill,Printed Part
+82,1,HDMI5 Mount,Printed Part
+83,1,HDMI5 Frame,Printed Part
