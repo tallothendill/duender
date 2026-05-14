@@ -13,61 +13,71 @@ Item,Quantity,Description,Product line
 12,1,2020-E 345mm extrusion,Extrusion
 13,2,2020V 200mm,Extrusion
 14,1,2020V 300mm,Extrusion
-15,98,M5x8 BHCS,Fastener
-16,42,M5 T-slot nut,Fastener
+15,97,M5x8 BHCS,Fastener
+16,41,M5 T-slot nut,Fastener
 17,3,M5x16 BHCS,Fastener
-18,4,M4x30 FHCS,Fastener
-19,94,M3x8 SHCS,Fastener
-20,9,M3x6 BHCS,Fastener
-21,54,M3 T-slot nut,Fastener
-22,3,TR8x8 leadscrew nut,Fastener
-23,3,GE5C bearing,Fastener
-24,2,M5 Hex nut,Fastener
-25,4,M3x8 BHCS,Fastener
-26,2,M3 Hammerhead nut,Fastener
-27,18,M3x5x4 Heat set insert,Fastener
-28,6,M3x35 SHCS,Fastener
-29,14,M3x30 SHCS,Fastener
-30,8,M3x6 SHCS,Fastener
-31,4,12mm silicone spacer,Hardware
-32,2,M3x20mm pin,Hardware
-33,6,MGN9H 300mm rail,Kinematics
-34,6,MGN9H carriage,Kinematics
-35,39,M3x0.5mm shim,Kinematics
-36,5,M3x10mm spacer,Kinematics
-37,8,M3 pin,Kinematics
-38,10,16T 6W 3B toothless idler,Kinematics
-39,2,GT2 16T 6W 5B pulley,Kinematics
-40,2,F695-2RS bearing,Kinematics
-41,1,GT2 6mm belt  approx. 1.5m,Kinematics
-42,1,GT2 6mm belt approx. 1.5m,Kinematics
-43,2,16T6W3B toothed idler,Kinematics
-44,3,Top Z spacer,Printed part
-45,2,Bottom Z spacer,Printed part
-46,1,PiTFT43 housing,Printed part
-47,1,Z motor holder back,Printed part
-48,6,Z Carriage stopper,Printed part
-49,1,Z joint back,Printed part
-50,1,Bed support back,Printed part
-51,1,Z joint left,Printed part
-52,1,Joint cover left,Printed part
-53,2,Z motor holder front,Printed part
-54,1,Bed support left,Printed part
-55,1,Z joint right,Printed part
-56,1,Joint cover right,Printed part
-57,1,Bed support right,Printed part
-58,1,AB motor mount BottomLeft,Printed part
-59,1,AB motor mount TopLeft,Printed part
-60,2,Y Carriage stopper,Printed part
-61,1,Front Left Holder Medusa9H,Printed part
-62,1,Left Tensioner Bottom,Printed part
-63,1,Left Tensioner Top,Printed part
-64,1,AB motor mount BottomRight,Printed part
-65,1,AB motor mount TopRight,Printed part
-66,1,Front Right Holder Medusa9H,Printed part
-67,1,Right Tensioner Bottom,Printed part
-68,1,Right Tensioner Top,Printed part
-69,1,Y Carriage Bottom Left,Printed part
-70,1,Y Carriage Bottom Right,Printed part
-71,1,Y Carriage Top Left,Printed part
-72,1,Y Carriage Top Right,Printed part
+18,5,M5 Hex nut,Fastener
+19,4,M4x30 FHCS,Fastener
+20,94,M3x8 SHCS,Fastener
+21,9,M3x6 BHCS,Fastener
+22,54,M3 T-slot nut,Fastener
+23,8,M3x5x4 Heat set insert,Fastener
+24,3,TR8x8 leadscrew nut,Fastener
+25,3,GE5C bearing,Fastener
+26,4,M3x8 BHCS,Fastener
+27,2,M3 Hammerhead nut,Fastener
+28,18,M3x5x4 Heat set insert,Fastener
+29,6,M3x35 SHCS,Fastener
+30,14,M3x30 SHCS,Fastener
+31,8,M3x6 SHCS,Fastener
+32,4,12mm silicone spacer,Hardware
+33,2,M3x20mm pin,Hardware
+34,6,MGN9H 300mm rail,Kinematics
+35,6,MGN9H carriage,Kinematics
+36,39,M3x0.5mm shim,Kinematics
+37,5,M3x10mm spacer,Kinematics
+38,8,M3 pin,Kinematics
+39,10,16T 6W 3B toothless idler,Kinematics
+40,2,GT2 16T 6W 5B pulley,Kinematics
+41,2,F695-2RS bearing,Kinematics
+42,1,GT2 6mm belt  approx. 1.5m,Kinematics
+43,1,GT2 6mm belt approx. 1.5m,Kinematics
+44,2,16T6W3B toothed idler,Kinematics
+45,3,Top Z spacer,Printed part
+46,2,Bottom Z spacer,Printed part
+47,1,PiTFT43 housing,Printed part
+48,1,Z motor holder back,Printed part
+49,6,Z Carriage stopper,Printed part
+50,1,Z joint back,Printed part
+51,2,Z motor holder front,Printed part
+52,1,Z Front Left Joint,Printed Part
+53,1,Z Front left Joint Cover,Printed Part
+54,1,Z joint right,Printed part
+55,1,Joint cover right,Printed part
+56,1,Bed support back,Printed part
+57,1,Bed support left,Printed part
+58,1,Z Right Bed Holder,Printed Part
+59,1,AB motor mount BottomLeft,Printed part
+60,1,AB motor mount TopLeft,Printed part
+61,2,Y Carriage stopper,Printed part
+62,1,Front Left Holder Medusa9H,Printed part
+63,1,Left Tensioner Bottom,Printed part
+64,1,Left Tensioner Top,Printed part
+65,1,AB motor mount BottomRight,Printed part
+66,1,AB motor mount TopRight,Printed part
+67,1,Front Right Holder Medusa9H,Printed part
+68,1,Right Tensioner Bottom,Printed part
+69,1,Right Tensioner Top,Printed part
+70,1,Y Carriage Bottom Left,Printed part
+71,1,Y Carriage Bottom Right,Printed part
+72,1,Y Carriage Top Left,Printed part
+73,1,Y Carriage Top Right,Printed part
+74,2,Base FL/BR Foot,Printed Part
+75,2,Base Side Skirt,Printed Part
+76,2,Base FR/BL Foot,Printed Part
+77,1,Base Back Skirt,Printed Part
+78,1,Base Back Plug Housing,Printed Part
+79,4,Base Fan Dummy,Printed Part
+80,1,Base Front Skirt,Printed Part
+81,2,Base Insert,Printed Part
+82,4,Base Fan Grill,Printed Part
