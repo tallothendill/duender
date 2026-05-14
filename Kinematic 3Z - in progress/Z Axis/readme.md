@@ -12,18 +12,18 @@
 <ul>
   Front right holder to front bed extrusion:
   <li>Allows for movement in X axis</li>
-  <li>This allows for the bed to tilt laterally, and fo X axis thermal expansion without forcing the bed to warp under stress</li>
-  <li>The screws must be tighten to the point where ther is no more Z rattling, but the T-nuts still can slide into the extrusion channel</li>
+  <li>This allows for the bed to tilt laterally, and for X axis thermal expansion without forcing the bed to warp under stress</li>
+  <li>The screws must be tight to the point where there is no more Z rattling, but the T-nuts still slide into the extrusion channel</li>
 </ul>
 <ul>
   Back support to back bed extrusion:
     <li>Allows for movement both in X and Y axis</li>
     <li>This allows for the bed to tilt front to back, and therml expansion without Y axis stress</li>
-    <li>Here also, the screws must be tighten just enough to eliminate any rattling in Z direction, but they will slide laterally in the extrusion channel and also on the Y axis (the support should glide onto the extrusion)</li>
+    <li>Here also, the screws must be tightened just enough to eliminate any rattling in Z direction, but still slide laterally in the extrusion channel and also on the Y axis (the support should &quot;glide&quot; onto the extrusion a few 0.x mm)</li>
 </ul>
 </p>
 <p>
-  A good way to &quot;calibrate&quot; screw torques is to tighten them to contact, then, while manually making the bed tilt, tightening/loosening by 1/8 turns until it feels just right
+  A good way to &quot;calibrate&quot; screw torques is to tighten them to contact, then, while manually making the bed tilt back and forth, tightening/loosening by 1/8 turn until it feels just right: the bed should tilt every direction without notable resistance point.
 </p>
 
 <p>
