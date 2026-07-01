@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://www.printables.com/model/1300968-duender-mgn9h-2x-creality-ender-3-corexy-convertio">
-    <img src="images/dulogo.jpg" alt="Logo" width="150" height="150">
+    <img src="images/dulogo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Duender mods, triple Z and more...</h3>
