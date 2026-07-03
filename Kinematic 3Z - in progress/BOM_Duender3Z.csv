@@ -1,0 +1,147 @@
+Item,Quantity,Description,Product line
+1,1,Base_Cover,DIY Acrylic panel
+2,2,4040-A 290mm extrusion,Ender 3 part
+3,2,4040-A 290m extrusion,Ender 3 part
+4,4,2040-B 400mm extrusion,Ender 3 part
+5,2,2040-C 345mm extrusion,Ender 3 part
+6,2,2020-E 345mm extrusion,Ender 3 part
+7,5,Nema 17 42-34 motor,Ender 3 part
+8,3,Motor coupler D5/8,Ender 3 part
+9,3,T8 lead screw,Ender 3 part
+10,1,235x235 Heat bed,Ender 3 part
+11,2,M5x25 SHCS,Ender 3 part
+12,1,2040-C 345mm extrusion,Extrusion
+13,1,2020-E 345mm extrusion,Extrusion
+14,2,2020V 200mm,Extrusion
+15,1,2020V 300mm,Extrusion
+16,1,2020 Vslot 350mm,Extrusion
+17,107,M5x8 BHCS,Fastener
+18,47,M5 T-slot Nut,Fastener
+19,3,M5x16 BHCS,Fastener
+20,3,M5x5x7 Heat set insert,Fastener
+21,4,M4x25 FHCS,Fastener
+22,95,M3x8 SHCS,Fastener
+23,24,M3x6 SHCS,Fastener
+24,11,M3x6 BHCS,Fastener
+25,67,M3 T-slot nut,Fastener
+26,120,M3x4.5x4 Heat-set insert,Fastener
+27,27,M3 Hex nut,Fastener
+28,3,TR8x8 leadscrew nut,Fastener
+29,3,GE5C bearing,Fastener
+30,2,M5 Hex nut,Fastener
+31,52,M3x8 BHCS,Fastener
+32,2,M3 Hammerhead T-nut,Fastener
+33,6,M3x35 SHCS,Fastener
+34,14,M3x30 SHCS,Fastener
+35,24,M2x10 BHCS,Fastener
+36,16,M2x3x4 Heatset Insert,Fastener
+37,8,M5x45 SCHS (from Ender),Fastener
+38,2,M4 Hex nut,Fastener
+39,16,M3x18 BHCS,Fastener
+40,4,M5 T-slot nut,Fastener
+41,30,M3x10 BHCS,Fastener
+42,10,M3x14 BHCS,Fastener
+43,3,M3x20 BHCS,Fastener
+44,5,M3x12 BHCS,Fastener
+45,1,M3x45 BHCS,Fastener
+46,2,M3x30 BHCS,Fastener
+47,3,M3x4 set screw,Fastener
+48,1,M3x25 BHCS,Fastener
+49,4,12mm silicone spacer,Hardware
+50,12,M3x30 pin,Hardware
+51,5,M3x20 pin,Hardware
+52,7,Limit switch,Hardware
+53,42,Neodym magnet 5x2mm,Hardware
+54,4,PTFE tubing 17mm,Hardware
+55,5,Neodym Magnet 12x3,Hardware
+56,4,3010 Axial Fan,Hardware
+57,4,Bambulab P1P Nozzle,Hardware
+58,4,Bambulab P1P Heatsink,Hardware
+59,8,3.1x5x18 Aluminium Bushing,Hardware
+60,8,3.1x5x25 Aluminium Bushing,Hardware
+61,1,Eddy V1,Hardware
+62,2,4010 Radial Fan,Hardware
+63,1,M3x6 pin,Hardware
+64,1,MG90S Servo,Hardware
+65,2,Sherpa 50t gear,Hardware
+66,4,Sherpa MR85-2RS,Hardware
+67,2,Sherpa 5mm shaft,Hardware
+68,1,Sherpa Nema14 10t,Hardware
+69,1,Sherpa filament gear,Hardware
+70,1,F693-2RS bearing,Hardware
+71,1,Sherpa Idler gear,Hardware
+72,2,Sherpa Needle bearings,Hardware
+73,2,Sherpa Spring,Hardware
+74,2,Sherpa Thumbscrew,Hardware
+75,6,MGN9H 300mm rail,Kinematics
+76,6,MGN9H carriage,Kinematics
+77,39,M3x0.5mm shim,Kinematics
+78,5,M3x10mm spacer,Kinematics
+79,10,16T 6W 3B toothless idler,Kinematics
+80,2,GT2 16T 6W 5B pulley,Kinematics
+81,2,F695-2RS bearing,Kinematics
+82,1,GT2 6mm belt  approx. 1.5m,Kinematics
+83,1,GT2 6mm belt approx. 1.5m,Kinematics
+84,2,16T6W3B toothed idler,Kinematics
+85,3,Top Z spacer,Printed part
+86,2,Bottom Z spacer,Printed part
+87,1,Z motor holder back,Printed part
+88,6,Z Carriage stopper,Printed part
+89,1,Z joint back,Printed part
+90,1,Z motor holder front,Printed part
+91,1,Left joint,Printed Part
+92,1,Left joint cover,Printed Part
+93,1,Z_Motor_Plate_Right,Printed Part
+94,1,Right joint,Printed Part
+95,1,Right joint cover,Printed Part
+96,1,Bed support back,Printed part
+97,1,Bed support left,Printed part
+98,1,Z Right Bed Holder,Printed Part
+99,1,AB motor mount BottomLeft,Printed part
+100,1,AB motor mount TopLeft,Printed part
+101,2,Y Carriage stopper,Printed part
+102,1,Left Tensioner Bottom,Printed part
+103,1,Left Tensioner Top,Printed part
+104,1,AB motor mount BottomRight,Printed part
+105,1,AB motor mount TopRight,Printed part
+106,1,Right Tensioner Bottom,Printed part
+107,1,Right Tensioner Top,Printed part
+108,1,Y Carriage Bottom Left,Printed part
+109,1,Y Carriage Bottom Right,Printed part
+110,1,Y Carriage Top Left,Printed part
+111,1,Y Carriage Top Right,Printed part
+112,2,FL-BR_Leg_x2,Printed Part
+113,2,Side_Skirt_x2,Printed Part
+114,2,FR-BL_Leg_x2,Printed Part
+115,1,Back_Skirt,Printed Part
+116,1,Plug_Plate,Printed Part
+117,4,5010fan_Dummy_x4,Printed Part
+118,1,Front_Skirt,Printed Part
+119,2,MicroUSB_Insert,Printed Part
+120,4,5010fan_Grill_x4,Printed Part
+121,1,EMS_Grill,Printed Part
+122,1,FT-EMS_Foot,Printed Part
+123,1,MHC Mount Left,Printed Part
+124,1,MHC Mount Right,Printed Part
+125,4,Base_Bin,Printed Part
+126,4,Base_Bin_Main,Printed Part
+127,4,Base_Mount_Plate,Printed Part
+128,4,Base_Mount_Main,Printed Part
+129,4,Nozzle_Close,Printed Part
+130,4,Brush_Mount,Printed Part
+131,4,Hotend_Mirrored_Bushings_x4,Printed Part
+132,1,MGN9H_Mount_Cutout,Printed Part
+133,1,MGN9H_Mount_Eddy,Printed Part
+134,1,Extruder_Main,Printed Part
+135,1,Feeder_Body_1,Printed Part
+136,1,Feeder_Lever_2,Printed Part
+137,1,M90S_Opener,Printed Part
+138,1,Feeder_Lever_2,Printed Part
+139,1,Servo_Mount,Printed Part
+140,1,Feeder_Body_2,Printed Part
+141,1,Feeder_Opener,Printed Part
+142,1,Feeder_Lever_Main,Printed Part
+143,1,Feeder_Small_Cover,Printed Part
+144,1,HDMI5_Base,Printed Part
+145,1,HDMI5_Support,Printed Part
+146,1,HDMI5_Frame,Printed Part
